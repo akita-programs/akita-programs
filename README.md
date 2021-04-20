@@ -15,6 +15,7 @@
 - 🎙️ Furry software engineer with a passion for coding.
 - 🖥️ Currently hirable but with no payment rate. I work for the hobby.
 - 💬 I am available for any questions, and can possibly help in a few fields.
+- ⌨️ I'm a Typescript/Javascript programmer.
 - 🌱 Learning Rust and possibly Golang.
 - 📮 Wish to reach me?
   - Email: akita.a113@gmail.com (Please label as "Message from Github: [Subject]")
@@ -35,11 +36,16 @@
 ![NodeJS](https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)
+![Postgresql](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=Postgresql)
+![Sqlite](https://img.shields.io/badge/Sqlite-black?style=for-the-badge&logo=Sqlite)
+
+<h2 font-weight="700">
+  🧰 – Still Learning
+</h2>
+
 ![C-Langs](https://img.shields.io/badge/CLANG-black?style=for-the-badge&logo=c)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
 ![Golang](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)
-![Postgresql](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=Postgresql)
-![Sqlite](https://img.shields.io/badge/Sqlite-black?style=for-the-badge&logo=Sqlite)
 
 <h2 font-weight="700">
     📈 – Stats
