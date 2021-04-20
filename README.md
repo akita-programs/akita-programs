@@ -2,24 +2,13 @@
     Copyrighted 2021 (C) Akita Jenson
     Please do not copy. I am grateful you are interested, but search up your own code for your own readme and figure it out yourself. You got this~<3
 -->
-<style>
-    h2 {
-        font-weight: 700;
-    }
-    ul {
-        list-style-type: '–   ';
-    }
-    ul ul {
-        list-style-type: '   ';
-    }
-</style>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/akita-programs/akita-programs/main/rainy.png">
     <hr>
 </div>
 
-<h2>
+<h2 font-weight="700">
     🏖️ – Who is Aki?
 </h2>
 
@@ -34,7 +23,7 @@
   - Telegram: [AkitaA113](https://t.me/akita113)
 - ⚡ Fun fact: I stole Developer Foxxo's coffee the other day.
 
-<h2>
+<h2 font-weight="700">
     🛠️ – Skills
 </h2>
 
@@ -52,7 +41,7 @@
 ![Postgresql](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=Postgresql)
 ![Sqlite](https://img.shields.io/badge/Sqlite-black?style=for-the-badge&logo=Sqlite)
 
-<h2>
+<h2 font-weight="700">
     📈 – Stats
 </h2>
 
