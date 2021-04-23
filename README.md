@@ -55,8 +55,8 @@
     <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=akita-programs&theme=dracula&column=7&margin-w=10" alt="Trophies" />
 </p>
 <p align="left">
-  <img width="49%" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=akita_programs&show_icons=true&theme=dracula&count_private=true" alt="Wakatime Stats" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=akita_programs&show_icons=true&theme=dracula&count_private=true" alt="Wakatime Stats" />
 </p>
 <p align="right">
-  <img width="49%" align="right" src="https://github-readme-stats.vercel.app/api?username=akita-programs&show_icons=true&theme=dracula&count_private=true" alt="Github Stats" /> 
+  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=akita-programs&show_icons=true&theme=dracula&count_private=true" alt="Github Stats" /> 
 </p>
