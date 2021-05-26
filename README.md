@@ -30,19 +30,19 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)
-![SASS](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=SASS)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript)
 ![NodeJS](https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)
-![Postgresql](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=Postgresql)
 ![Sqlite](https://img.shields.io/badge/Sqlite-black?style=for-the-badge&logo=Sqlite)
 
 <h2 font-weight="700">
   🧰 – Still Learning
 </h2>
 
+![SASS](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=SASS)
+![Postgresql](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=Postgresql)
+![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)
 ![C-Langs](https://img.shields.io/badge/CLANG-black?style=for-the-badge&logo=c)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
 ![Golang](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)
