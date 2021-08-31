@@ -1,28 +1,24 @@
 <!--
-    Copyrighted 2021 (C) Akita Jenson
+    Copyrighted 2021 (C) UNKNOWN
     Please do not copy. I am grateful you are interested, but search up your own code for your own readme and figure it out yourself. You got this~<3
 -->
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/akita-programs/akita-programs/main/rainy.png">
+    <img src="https://raw.githubusercontent.com/akita-programs/akita-programs/main/akita_banner.png">
     <hr>
 </div>
 
 <h2 font-weight="700">
-    🏖️ – Who is Aki?
+    🏖️ – Who are you?
 </h2>
 
 - 🎙️ Furry software engineer with a passion for coding.
 - 🖥️ Currently hirable but with no payment rate. I work for the hobby.
 - 💬 I am available for any questions, and can possibly help in a few fields.
 - ⌨️ I'm a Typescript/Javascript programmer.
-- 🌱 Learning Rust and possibly Golang.
+- 🌱 Learning Rust and relearning Javascript.
 - 📮 Wish to reach me?
-  - Email: akita.a113@gmail.com (Please label as "Message from Github: [Subject]")
-  - Discord: Akita#1337
-  - Twitter: [AkitaA113](https://twitter.com/AkitaA113)
-  - Telegram: [AkitaA113](https://t.me/akita113)
-- ⚡ Fun fact: I stole Developer Foxxo's coffee the other day.
+    - Sadly, due to recent problems, previous contacts are invalid. Sorry!
 
 <h2 font-weight="700">
     🛠️ – Skills
